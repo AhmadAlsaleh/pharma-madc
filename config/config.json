@@ -1,0 +1,26 @@
+{ 
+  "remote": {
+    "username": "LCxw0HsIt1",
+    "password": "BSOexxJ0fS",
+    "database": "LCxw0HsIt1",
+    "host": "remotemysql.com",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "localAhmad": {
+    "username": "ahmad",
+    "password": "P@ssw0rd",
+    "database": "pharma",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "localTaha": {
+    "username": "root",
+    "password": null,
+    "database": "first_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
